@@ -1,0 +1,7 @@
+E:\Softwares\my works\project\Guess it !\chapter 2\bin\Debug\chapter 2.exe.config
+E:\Softwares\my works\project\Guess it !\chapter 2\bin\Debug\chapter 2.exe
+E:\Softwares\my works\project\Guess it !\chapter 2\bin\Debug\chapter 2.pdb
+E:\Softwares\my works\project\Guess it !\chapter 2\obj\Debug\chapter 2.csprojAssemblyReference.cache
+E:\Softwares\my works\project\Guess it !\chapter 2\obj\Debug\chapter 2.csproj.CoreCompileInputs.cache
+E:\Softwares\my works\project\Guess it !\chapter 2\obj\Debug\chapter 2.exe
+E:\Softwares\my works\project\Guess it !\chapter 2\obj\Debug\chapter 2.pdb
